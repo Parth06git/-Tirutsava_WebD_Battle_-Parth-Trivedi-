@@ -1,0 +1,101 @@
+@media(max-width:750px){
+    *{
+        box-sizing: border-box;
+    }
+
+    .nav-links ul li a{
+        font-size: 10px;
+    }
+
+    .nav-links ul li{
+        padding-right: 5px;
+        padding-left: 0;
+        padding-top: 0;
+        padding-bottom: 4px;
+    }
+
+    .logo a{
+        font-size: 15px;
+    }
+
+    .nav-links{
+        padding:8px;
+    }
+
+    .logo{
+        padding-left: 10px;
+        text-align: right;
+    }
+
+    .Wel{
+        font-size: 25px;
+    }
+
+    .text-box p{
+        font-size: 15px;
+    }
+
+    .text-box1 p{
+        font-size: 15px;
+    }
+
+    .inf{
+        margin-right: 0px;
+        padding: 30px;
+        padding-left: 0;
+        text-align: center;
+        padding-right: 110px;
+    }
+
+    .row{
+        flex-direction: column;
+        
+    }
+
+    .inf-col{
+        width: 120%;
+        flex-basis: 50%;
+    }
+
+    .proj{
+        margin-right: 0px;
+        padding: 30px;
+        margin-right: 0;
+        padding-left: 40px;
+        text-align: center;
+        padding-right: 70px;
+    }
+
+    .img-link{
+        flex-direction: row;
+    }
+
+    .proj ul li{
+        flex-basis: 50%;
+        width: 100%;
+    }
+
+    .footer{
+        font-size: 10px;
+    }    
+
+    .upd{
+        width: 100%;
+    }
+
+    .col img{
+        width: 100%;
+    }
+
+    .col p{
+        font-size: 15px;
+    }
+
+    .cont{
+        width: 100%;
+    }
+
+    .upd{
+        width: 100%;
+    }
+}
